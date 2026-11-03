@@ -12,7 +12,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/orgs/ai-workforce-curriculum/repositories)
 [![Repositories: 10](https://img.shields.io/badge/repositories-10-blue.svg)](https://github.com/orgs/ai-workforce-curriculum/repositories)
 
-🌐 **Website:** [ai-workforce-curriculum.github.io](https://ai-workforce-curriculum.github.io/) · part of the [AI Career Curriculum](https://ai-curriculum-project.github.io/)
+🌐 **Website:** [ai-workforce-curriculum.github.io](https://ai-workforce-curriculum.github.io/) · part of the [AI Career Curriculum](https://ai-curriculum-project.github.io/) · 📊 [Completeness matrix](https://github.com/ai-workforce-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md)
 
 ## 🎯 Overview
 
